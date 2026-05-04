@@ -1,0 +1,24 @@
+.embla {
+  --slide-height: 19rem;
+  --slide-spacing: 1rem;
+  --detail-medium-contrast: rgb(25, 25, 25);
+  --detail-high-contrast: rgb(101, 101, 101);
+  --text-high-contrast-rgb-value: 230, 230, 230;
+  --text-body: rgb(222, 222, 222);
+}
+
+.embla__viewport {
+  overflow: hidden;
+}
+
+.embla__container {
+  display: flex;
+  touch-action: pan-y pinch-zoom;
+  margin-left: calc(var(--slide-spacing) * -1);
+}
+
+.embla__slide {
+  transform: translate3d(0, 0, 0);
+  min-width: 0;
+  padding-left: var(--slide-spacing);
+}

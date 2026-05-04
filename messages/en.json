@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "title": "Châu 47 Tẩy Ố, Đánh bóng, Hàn kính xe Ô Tô Buôn Ma Thuột",
+    "description": "Châu 47 chuyên dịch vụ tẩy ố, đánh bóng, hàn kính xe ô tô tại Buôn Ma Thuột. Giá hợp lý - Dịch vụ chuyên nghiệp - Khách hàng hài lòng 100%."
+  },
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "process": "Process",
+    "testimonials": "Reviews",
+    "faq": "FAQ",
+    "cta": "Book Now",
+    "lang": "VI"
+  },
+  "hero": {
+    "overline": "AUTOMOTIVE PRECISION",
+    "heading": "Professional Automotive Glass Polishing",
+    "subheading": "Restoring absolute clarity to your vision. Advanced glass polishing technology for luxury vehicles.",
+    "our_services": "Our Services",
+    "free_consultation": "Free Consultation"
+  },
+  "about": {
+    "overline": "WHO WE ARE",
+    "heading": "About Us",
+    "subheading1": "At <bold>Châu 47</bold>, we understand that car glass not only affects aesthetics but also directly determines your visibility and driving safety. That's why our glass stain removal, polishing, and repair services were created — with the goal of delivering crystal-clear glass, safe driving, and a car that looks brand new.",
+    "subheading2": "Located in <bold>Buôn Ma Thuột</bold>, Châu 47 makes it easy for customers across the <bold>Tay Nguyen</bold> region to access premium car care and detailing services.",
+    "subheading3": "With experienced technicians, modern equipment, and glass-safe specialized compounds, we commit to:",
+    "subheading4": "✨ Effectively eliminating stains, cloudiness, and long-term water deposits.",
+    "subheading5": "🔒 Keeping glass surfaces safe — no scratches or damage.",
+    "subheading6": "⏱️ Fast, time-efficient process.",
+    "subheading7": "💰 Fair, transparent pricing that matches the quality."
+  },
+  "services": {
+    "overline": "SOLUTIONS",
+    "heading": "Premium Services",
+    "subheading": "Serving diverse needs from luxury personal vehicles to premium architectural projects.",
+    "card0_title": "Car Glass Polishing",
+    "card0_desc": "Remove wiper scratches, mold stains, and water spots from all luxury vehicle glass surfaces.",
+    "card1_title": "Truck Glass Polishing",
+    "card1_desc": "Restore optimal visibility for heavy transport vehicles and long-distance buses.",
+    "card2_title": "Glass Crack Repair",
+    "card2_desc": "Treat rock-chip cracks and prevent spreading — without replacing the glass.",
+    "card3_title": "Building Glass Polishing",
+    "card3_desc": "Restore shine and clarity to long-tarnished building and villa glass facades."
+  },
+  "specs": {
+    "overline": "TECHNICAL SPECS",
+    "heading": "Precision Engineering",
+    "subheading": "Our proprietary nano-ceramic process delivers measurable, certified results on every treatment.",
+    "item0_label": "Scratch Removal Depth",
+    "item0_value": "Up to 0.3 mm",
+    "item0_chip": "Certified",
+    "item1_label": "Processing Time",
+    "item1_value": "2 – 4 Hours",
+    "item1_chip": "Available",
+    "item2_label": "Clarity Improvement",
+    "item2_value": "95 %+",
+    "item2_chip": "Premium",
+    "item3_label": "Technology",
+    "item3_value": "Nano-Ceramic Polishing",
+    "item3_chip": "Certified",
+    "item4_label": "Service Warranty",
+    "item4_value": "12 Months",
+    "item4_chip": "Available"
+  },
+  "slider": {
+    "overline": "BEFORE / AFTER",
+    "heading": "See the Difference",
+    "subheading": "Drag the handle to compare glass clarity before and after our professional treatment.",
+    "before_label": "Before",
+    "after_label": "After"
+  },
+  "testimonials": {
+    "overline": "CLIENT REVIEWS",
+    "heading": "What Our Clients Say",
+    "t0_quote": "I was truly impressed with the clarity after polishing. Driving at night feels much safer — no more glare at all.",
+    "t0_name": "Mrs Hong",
+    "t0_vehicle": "Mercedes-Benz S-Class",
+    "t1_quote": "Professional service, technicians explained the glass condition very thoroughly. Results exceeded expectations — windshield completely clear.",
+    "t1_name": "Mr Hoang",
+    "t1_vehicle": "BMW 7 Series",
+    "t2_quote": "Reasonable price afor premium quality. Highly skilled technicians who are extremely careful with customers' cars.",
+    "t2_name": "Mrs Linh",
+    "t2_vehicle": "Lexus RX350",
+    "t3_quote": "Not only did they clean the glass thoroughly, but they also guided me on how to care for it to prevent future staining. Very dedicated and professional!",
+    "t3_name": "Mr Nam",
+    "t3_vehicle": "Ford Ranger"
+  },
+  "cta": {
+    "overline": "GET STARTED",
+    "heading": "Ready to Restore Crystal Clarity?",
+    "subheading": "Book your free inspection today and experience the difference of professional glass restoration.",
+    "submit": "Booking Now",
+    "note": "Free consultation"
+  },
+  "faq": {
+    "overline": "FAQ",
+    "heading": "Frequently Asked Questions",
+    "q0": "Does glass polishing make the glass thinner or brittle?",
+    "a0": "Our process only affects the micron surface layer to remove scratches. Glass thickness is reduced by less than 1% — well within engineering safety standards.",
+    "q1": "How long does the process take?",
+    "a1": "Depending on the severity and area of damage, the process typically takes 2 to 4 hours. We provide a precise estimate after the free inspection.",
+    "q3": "Can deep scratches be completely removed?",
+    "a3": "Scratches up to 0.3 mm deep can be fully eliminated. Deeper scratches are significantly reduced in visibility. Each case is assessed during the free inspection.",
+    "q4": "Should I polish glass at home myself?",
+    "a4": "DIY polishing with incorrect compounds or technique can permanently damage glass or distort vision. Professional equipment and certified compounds are essential.",
+    "q5": "Does the service come with a warranty?",
+    "a5": "Yes — all treatments are backed by a 12-month warranty against reappearing scratches within the treated area."
+  },
+  "footer": {
+    "tagline": "Restoring clarity. Elevating safety.",
+    "services_heading": "Services",
+    "home_page_heading": "Home Page",
+    "contact_heading": "Contact",
+    "about": "About",
+    "services": "Services",
+    "process": "Process",
+    "testimonials": "Reviews",
+    "faq": "FAQ",
+    "cta": "Book Now",
+    "s0": "Car Glass Polishing",
+    "s1": "Truck Glass Polishing",
+    "s2": "Glass Crack Repair",
+    "s3": "Building Glass Polishing",
+    "phoneNumber": "Phone:",
+    "address": "Address:"
+  }
+}

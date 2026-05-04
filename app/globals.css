@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply bg-background text-on-surface font-body;
+    min-height: 100dvh;
+  }
+}
+
+@layer components {
+  /* Glassmorphism — progressively enhanced */
+  .glass {
+    background: rgba(18, 33, 49, 0.7);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+  }
+
+  @supports (backdrop-filter: blur(12px)) {
+    .glass {
+      -webkit-backdrop-filter: blur(12px);
+      backdrop-filter: blur(12px);
+    }
+  }
+
+  .glass-nav {
+    background: rgba(5, 20, 36, 0.8);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  }
+
+  @supports (backdrop-filter: blur(16px)) {
+    .glass-nav {
+      -webkit-backdrop-filter: blur(16px);
+      backdrop-filter: blur(16px);
+      background: rgba(5, 20, 36, 0.65);
+    }
+  }
+
+  /* Inner edge highlight */
+  .inner-edge {
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  }
+
+  /* Action button glow */
+  .btn-action {
+    @apply bg-action text-white font-display font-semibold rounded-lg
+           transition-all duration-200;
+    box-shadow: none;
+  }
+
+  .btn-action:hover {
+    box-shadow: 0 0 16px rgba(99, 102, 241, 0.5);
+    @apply brightness-110;
+  }
+
+  .btn-ghost {
+    @apply bg-transparent text-on-surface font-display font-semibold rounded-lg
+           border border-outline transition-all duration-200;
+  }
+
+  .btn-ghost:hover {
+    @apply border-primary text-primary;
+  }
+
+  /* Status chip */
+  .chip {
+    @apply inline-flex items-center px-3 py-0.5 rounded-full border border-primary
+           text-primary text-chip font-display uppercase tracking-widest;
+  }
+
+  .chip-available {
+    @apply border-primary text-primary;
+  }
+
+  .chip-premium {
+    @apply border-primary-container text-primary-container;
+  }
+
+  .chip-certified {
+    @apply border-secondary text-secondary;
+  }
+
+  /* Section container */
+  .section-container {
+    @apply w-full max-w-container mx-auto md:px-8 px-4;
+  }
+
+  .spacing-section {
+    @apply lg:py-section-lg md:py-section-md py-section-sm;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .luminous-hero {
+    background-image: radial-gradient(
+      ellipse 80% 60% at 50% -10%,
+      rgba(192, 193, 255, 0.1) 0%,
+      transparent 70%
+    );
+  }
+
+  .luminous-cta {
+    background-image: radial-gradient(
+      ellipse 70% 80% at 50% 50%,
+      rgba(99, 102, 241, 0.12) 0%,
+      transparent 70%
+    );
+  }
+}

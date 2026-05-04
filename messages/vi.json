@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "title": "Châu 47 Tẩy Ố, Đánh bóng, Hàn kính xe Ô Tô Buôn Ma Thuột",
+    "description": "Châu 47 chuyên dịch vụ tẩy ố, đánh bóng, hàn kính xe ô tô tại Buôn Ma Thuột. Giá hợp lý - Dịch vụ chuyên nghiệp - Khách hàng hài lòng 100%."
+  },
+  "nav": {
+    "about": "Giới thiệu",
+    "services": "Dịch Vụ",
+    "process": "Quy Trình",
+    "testimonials": "Đánh Giá",
+    "faq": "FAQ",
+    "cta": "Đặt Lịch",
+    "lang": "EN"
+  },
+  "hero": {
+    "overline": "ĐỘ CHÍNH XÁC Ô TÔ",
+    "heading": "Đánh Bóng Kính Ô Tô Chuyên Nghiệp",
+    "subheading": "Phục hồi sự trong suốt tuyệt đối cho tầm nhìn của bạn. Công nghệ đánh bóng kính tiên tiến cho xe sang.",
+    "our_services": "Dịch vụ của chúng tôi",
+    "free_consultation": "Tư vấn miễn phí"
+  },
+  "about": {
+    "overline": "Chúng tôi là ai",
+    "heading": "Giới thiệu",
+    "subheading1": "Tại <bold>Châu 47</bold>, chúng tôi hiểu rằng kính xe không chỉ ảnh hưởng đến thẩm mỹ mà còn quyết định trực tiếp đến tầm nhìn và sự an toàn khi lái xe. Vì vậy, dịch vụ tẩy ố – đánh bóng kính - hàn kính được ra đời với mục tiêu mang lại cho khách hàng trải nghiệm kính trong – lái xe an toàn – xe đẹp như mới.",
+    "subheading2": "Châu 47 tại <bold>Buôn Ma Thuột</bold>, giúp khách hàng tại khu vực <bold>Tây Nguyên</bold> dễ dàng tiếp cận dịch vụ chăm sóc và làm đẹp xe chất lượng cao.",
+    "subheading3": "Với đội ngũ kỹ thuật viên giàu kinh nghiệm, trang thiết bị hiện đại cùng dung dịch chuyên dụng an toàn cho bề mặt kính, chúng tôi cam kết:",
+    "subheading4": "✨ Loại bỏ hiệu quả các vết ố, mờ, cặn nước lâu ngày.",
+    "subheading5": "🔒 Giữ bề mặt kính an toàn, không gây trầy xước hay hư hại.",
+    "subheading6": "⏱️ Quy trình nhanh chóng, tiết kiệm thời gian.",
+    "subheading7": "💰 Giá cả hợp lý, minh bạch và xứng đáng với chất lượng."
+  },
+  "services": {
+    "overline": "GIẢI PHÁP",
+    "heading": "Dịch Vụ Cao Cấp",
+    "subheading": "Phục vụ đa dạng nhu cầu từ xe cá nhân hạng sang đến các công trình kiến trúc cao cấp.",
+    "card0_title": "Đánh Bóng Kính Ô Tô",
+    "card0_desc": "Loại bỏ vết xước gạt mưa, vết mốc và vết nước bẩn trên tất cả bề mặt kính xe sang.",
+    "card1_title": "Đánh Bóng Kính Xe Tải",
+    "card1_desc": "Phục hồi tầm nhìn tối ưu cho xe vận tải hạng nặng và xe buýt đường dài.",
+    "card2_title": "Sửa Chữa Nứt Kính",
+    "card2_desc": "Xử lý vết nứt do đá bắn và ngăn chặn lan rộng — không cần thay kính.",
+    "card3_title": "Đánh Bóng Kính Tòa Nhà",
+    "card3_desc": "Phục hồi độ bóng và trong suốt cho mặt kính tòa nhà và biệt thự đã lâu bị mờ."
+  },
+  "specs": {
+    "overline": "THÔNG SỐ KỸ THUẬT",
+    "heading": "Kỹ Thuật Chính Xác",
+    "subheading": "Quy trình nano-ceramic độc quyền của chúng tôi mang lại kết quả đo lường được, được chứng nhận trên mỗi lần xử lý.",
+    "item0_label": "Độ Sâu Loại Bỏ Vết Xước",
+    "item0_value": "Đến 0,3 mm",
+    "item0_chip": "Chứng Nhận",
+    "item1_label": "Thời Gian Xử Lý",
+    "item1_value": "2 – 4 Giờ",
+    "item1_chip": "Sẵn Sàng",
+    "item2_label": "Cải Thiện Độ Trong",
+    "item2_value": "95%+",
+    "item2_chip": "Cao Cấp",
+    "item3_label": "Công Nghệ",
+    "item3_value": "Đánh Bóng Nano-Ceramic",
+    "item3_chip": "Chứng Nhận",
+    "item4_label": "Bảo Hành Dịch Vụ",
+    "item4_value": "12 Tháng",
+    "item4_chip": "Sẵn Sàng"
+  },
+  "slider": {
+    "overline": "TRƯỚC / SAU",
+    "heading": "Thấy Sự Khác Biệt",
+    "subheading": "Kéo thanh để so sánh độ trong của kính trước và sau khi được xử lý chuyên nghiệp.",
+    "before_label": "Trước",
+    "after_label": "Sau"
+  },
+  "testimonials": {
+    "overline": "ĐÁNH GIÁ KHÁCH HÀNG",
+    "heading": "Khách Hàng Nói Gì",
+    "t0_quote": "Tôi thực sự ấn tượng với độ trong suốt sau khi đánh bóng. Lái xe ban đêm cảm thấy an toàn hơn nhiều — không còn bị chói mắt nữa.",
+    "t0_name": "Chị Hồng",
+    "t0_vehicle": "Mercedes-Benz S-Class",
+    "t1_quote": "Dịch vụ chuyên nghiệp, kỹ thuật viên giải thích tình trạng kính rất kỹ lưỡng. Kết quả vượt mong đợi — kính chắn gió hoàn toàn trong suốt.",
+    "t1_name": "Anh Nam",
+    "t1_vehicle": "BMW 7 Series",
+    "t2_quote": "Giá cả hợp lý cho chất lượng cao cấp. Kỹ thuật viên tay nghề cao, cực kỳ cẩn thận với xe của khách hàng.",
+    "t2_name": "Chị Linh",
+    "t2_vehicle": "Lexus RX350",
+    "t3_quote": "Không chỉ làm kính sạch, trong, mà còn hướng dẫn mình cách chăm sóc để hạn chế ố lại. Rất tận tâm và chuyên nghiệp!",
+    "t3_name": "Anh Hoàng",
+    "t3_vehicle": "Ford Ranger"
+  },
+  "cta": {
+    "overline": "BẮT ĐẦU NGAY",
+    "heading": "Sẵn Sàng Phục Hồi Độ Trong Suốt?",
+    "subheading": "Đặt lịch kiểm tra miễn phí ngay hôm nay và trải nghiệm sự khác biệt của dịch vụ phục hồi kính chuyên nghiệp.",
+    "submit": "Gọi điện đặt lịch",
+    "note": "Tư vấn miễn phí"
+  },
+  "faq": {
+    "overline": "FAQ",
+    "heading": "Câu Hỏi Thường Gặp",
+    "q0": "Đánh bóng kính có làm kính mỏng hơn hoặc giòn hơn không?",
+    "a0": "Quy trình của chúng tôi chỉ tác động đến lớp bề mặt micron để loại bỏ vết xước. Độ dày kính giảm dưới 1% — hoàn toàn nằm trong tiêu chuẩn an toàn kỹ thuật.",
+    "q1": "Quá trình xử lý mất bao lâu?",
+    "a1": "Tùy thuộc vào mức độ và diện tích hư hỏng, quá trình thường mất từ 2 đến 4 giờ. Chúng tôi cung cấp ước tính chính xác sau khi kiểm tra miễn phí.",
+    "q3": "Vết xước sâu có thể loại bỏ hoàn toàn không?",
+    "a3": "Vết xước sâu đến 0,3 mm có thể loại bỏ hoàn toàn. Vết xước sâu hơn sẽ giảm đáng kể độ nhìn thấy. Mỗi trường hợp được đánh giá trong quá trình kiểm tra miễn phí.",
+    "q4": "Tôi có nên tự đánh bóng kính tại nhà không?",
+    "a4": "Tự đánh bóng với hợp chất sai hoặc kỹ thuật không đúng có thể làm hỏng vĩnh viễn kính hoặc làm méo tầm nhìn. Thiết bị chuyên nghiệp và hợp chất được chứng nhận là điều không thể thiếu.",
+    "q5": "Dịch vụ có bảo hành không?",
+    "a5": "Có — tất cả các lần xử lý đều được bảo hành 12 tháng đối với vết xước tái xuất hiện trong khu vực đã xử lý."
+  },
+  "footer": {
+    "tagline": "Phục hồi độ trong suốt. Nâng cao an toàn.",
+    "home_page_heading": "Trang Chủ",
+    "services_heading": "Dịch Vụ",
+    "contact_heading": "Liên Hệ",
+    "about": "Giới thiệu",
+    "services": "Dịch Vụ",
+    "process": "Quy Trình",
+    "testimonials": "Đánh Giá",
+    "faq": "FAQ",
+    "cta": "Đặt Lịch",
+    "s0": "Đánh Bóng Kính Ô Tô",
+    "s1": "Đánh Bóng Kính Xe Tải",
+    "s2": "Sửa Chữa Nứt Kính",
+    "s3": "Đánh Bóng Kính Tòa Nhà",
+    "phoneNumber": "Số điện thoại:",
+    "address": "Địa chỉ:"
+  }
+}

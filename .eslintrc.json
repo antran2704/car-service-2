@@ -1,0 +1,18 @@
+{
+  "extends": "next/core-web-vitals",
+  "plugins": [],
+  "ignorePatterns": [".next/**", "out/**", "build/**", "next-env.d.ts"],
+  "rules": {
+    "no-unused-vars": ["warn", { "args": "none" }],
+    "no-console": "warn",
+    "no-var": "error"
+  },
+  "overrides": [
+    {
+      "files": ["**/*.d.ts"],
+      "rules": {
+        "no-unused-vars": "off"
+      }
+    }
+  ]
+}

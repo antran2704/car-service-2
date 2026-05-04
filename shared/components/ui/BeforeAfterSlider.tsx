@@ -33,10 +33,13 @@ export default function BeforeAfterSlider({
     setPosition(clamp(((clientX - left) / width) * 100));
   }, []);
 
-  /* Pointer events — handles mouse & touch unified */
+  const preventScroll = useCallback((e: Event) => e.preventDefault(), []);
+
   const onPointerDown = (e: React.PointerEvent<HTMLDivElement>) => {
     isDragging.current = true;
     (e.currentTarget as HTMLElement).setPointerCapture(e.pointerId);
+    window.addEventListener("wheel", preventScroll, { passive: false });
+    window.addEventListener("touchmove", preventScroll, { passive: false });
     calcPosition(e.clientX);
   };
 
@@ -47,6 +50,8 @@ export default function BeforeAfterSlider({
 
   const onPointerUp = () => {
     isDragging.current = false;
+    window.removeEventListener("wheel", preventScroll);
+    window.removeEventListener("touchmove", preventScroll);
   };
 
   return (
